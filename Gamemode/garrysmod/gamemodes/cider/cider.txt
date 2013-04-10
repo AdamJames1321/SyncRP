@@ -1,0 +1,9 @@
+"cider"
+{
+	"base"		"base"
+	"title"		"Cider"
+	"maps"		"^bg_"
+	"menusystem"	"1"
+	
+	
+}
